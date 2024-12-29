@@ -14,6 +14,8 @@ corresponding to the latest version of the framework.
 
 ## Installation & updates
 
+`docker composer up --build -d `
+`docker composer up -d `
 `docker exec -it ci-app sh `
 
 ## Setup
