@@ -16,6 +16,7 @@
     <main>
         <?= $this->renderSection('content') ?>
     </main>
+    <?= $this->include('components/footer') ?>
 </body>
 
 </html>
